@@ -24,11 +24,11 @@
   (read-bitmap (get-pure-port (string->url "https://s-media-cache-ak0.pinimg.com/originals/be/ef/1b/beef1bf1d9832e421579034a73066cdb.jpg"))))
 
 (define easter-egg
-  (read-bitmap (get-pure-port (string->url "http://blog.melchua.com/wp-content/uploads/2009/07/skill-graph.jpg"))))
+  (read-bitmap (get-pure-port (string->url "https://i.pinimg.com/736x/92/a3/bd/92a3bde07d4585375865249bcec0aa83--funny-cat-memes-funny-cats.jpg"))))
 
 ;Crates gui frame
 (define frame (new frame%
-                   [label "Final Project - Racket GUI Image Gallery"]
+                   [label "Racket GUI Image Gallery"]
                    [width 600]
                    [height 400]
                    ))
