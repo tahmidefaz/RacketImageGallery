@@ -1,5 +1,5 @@
 # RacketImageGallery
-A simple image gallery implemented with GUI in Racket
+A simple image gallery implemented with GUI framework of Racket
 
 ### Setup:
 Download Racket from this link: https://download.racket-lang.org/
